@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بحبك من كل قلبي يا حياتي
+> نار الشوق بتكوي كل ليلاتي
+> عطرك في الهوى بيسحر أوقاتي
+> روحي معاك، إنت كل حكاياتي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
